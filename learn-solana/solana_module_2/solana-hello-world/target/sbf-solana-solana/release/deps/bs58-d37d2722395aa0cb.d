@@ -1,0 +1,10 @@
+/Users/nguyenluong/Developer/blockchain/sol_contracts/learn-rust/solana_module_2/solana-hello-world/target/sbf-solana-solana/release/deps/libbs58-d37d2722395aa0cb.rmeta: /Users/nguyenluong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.4.0/src/lib.rs /Users/nguyenluong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.4.0/src/alphabet.rs /Users/nguyenluong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.4.0/src/decode.rs /Users/nguyenluong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.4.0/src/encode.rs
+
+/Users/nguyenluong/Developer/blockchain/sol_contracts/learn-rust/solana_module_2/solana-hello-world/target/sbf-solana-solana/release/deps/libbs58-d37d2722395aa0cb.rlib: /Users/nguyenluong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.4.0/src/lib.rs /Users/nguyenluong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.4.0/src/alphabet.rs /Users/nguyenluong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.4.0/src/decode.rs /Users/nguyenluong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.4.0/src/encode.rs
+
+/Users/nguyenluong/Developer/blockchain/sol_contracts/learn-rust/solana_module_2/solana-hello-world/target/sbf-solana-solana/release/deps/bs58-d37d2722395aa0cb.d: /Users/nguyenluong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.4.0/src/lib.rs /Users/nguyenluong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.4.0/src/alphabet.rs /Users/nguyenluong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.4.0/src/decode.rs /Users/nguyenluong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.4.0/src/encode.rs
+
+/Users/nguyenluong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.4.0/src/lib.rs:
+/Users/nguyenluong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.4.0/src/alphabet.rs:
+/Users/nguyenluong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.4.0/src/decode.rs:
+/Users/nguyenluong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bs58-0.4.0/src/encode.rs:

@@ -1,0 +1,10 @@
+/Users/nguyenluong/Developer/blockchain/sol_contracts/learn-rust/solana_module_2/solana-hello-world/target/sbf-solana-solana/release/deps/libgetrandom-74e864eddf3bd6e7.rmeta: /Users/nguyenluong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/lib.rs /Users/nguyenluong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/error.rs /Users/nguyenluong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/util.rs /Users/nguyenluong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/custom.rs
+
+/Users/nguyenluong/Developer/blockchain/sol_contracts/learn-rust/solana_module_2/solana-hello-world/target/sbf-solana-solana/release/deps/libgetrandom-74e864eddf3bd6e7.rlib: /Users/nguyenluong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/lib.rs /Users/nguyenluong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/error.rs /Users/nguyenluong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/util.rs /Users/nguyenluong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/custom.rs
+
+/Users/nguyenluong/Developer/blockchain/sol_contracts/learn-rust/solana_module_2/solana-hello-world/target/sbf-solana-solana/release/deps/getrandom-74e864eddf3bd6e7.d: /Users/nguyenluong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/lib.rs /Users/nguyenluong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/error.rs /Users/nguyenluong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/util.rs /Users/nguyenluong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/custom.rs
+
+/Users/nguyenluong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/lib.rs:
+/Users/nguyenluong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/error.rs:
+/Users/nguyenluong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/util.rs:
+/Users/nguyenluong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/custom.rs:

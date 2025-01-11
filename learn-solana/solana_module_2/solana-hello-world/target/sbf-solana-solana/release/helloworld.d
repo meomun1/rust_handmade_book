@@ -1,0 +1,1 @@
+/Users/nguyenluong/Developer/blockchain/sol_contracts/learn-rust/solana_module_2/solana-hello-world/target/sbf-solana-solana/release/helloworld.so: /Users/nguyenluong/Developer/blockchain/sol_contracts/learn-rust/solana_module_2/solana-hello-world/src/lib.rs

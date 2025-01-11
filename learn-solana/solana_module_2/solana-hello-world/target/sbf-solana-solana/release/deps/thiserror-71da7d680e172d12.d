@@ -1,0 +1,10 @@
+/Users/nguyenluong/Developer/blockchain/sol_contracts/learn-rust/solana_module_2/solana-hello-world/target/sbf-solana-solana/release/deps/libthiserror-71da7d680e172d12.rmeta: /Users/nguyenluong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/lib.rs /Users/nguyenluong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/aserror.rs /Users/nguyenluong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/display.rs /Users/nguyenluong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/provide.rs
+
+/Users/nguyenluong/Developer/blockchain/sol_contracts/learn-rust/solana_module_2/solana-hello-world/target/sbf-solana-solana/release/deps/libthiserror-71da7d680e172d12.rlib: /Users/nguyenluong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/lib.rs /Users/nguyenluong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/aserror.rs /Users/nguyenluong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/display.rs /Users/nguyenluong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/provide.rs
+
+/Users/nguyenluong/Developer/blockchain/sol_contracts/learn-rust/solana_module_2/solana-hello-world/target/sbf-solana-solana/release/deps/thiserror-71da7d680e172d12.d: /Users/nguyenluong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/lib.rs /Users/nguyenluong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/aserror.rs /Users/nguyenluong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/display.rs /Users/nguyenluong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/provide.rs
+
+/Users/nguyenluong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/lib.rs:
+/Users/nguyenluong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/aserror.rs:
+/Users/nguyenluong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/display.rs:
+/Users/nguyenluong/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/provide.rs:
